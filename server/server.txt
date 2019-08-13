@@ -1,0 +1,11 @@
+void Error_Handling(char *)
+에러 메세지 출력 후 종료
+
+void Recive_File()
+라즈베리파이에서 찍은 사진 파일을 받는다.
+
+int Mysql_server(char *, char *)
+사진 이름, 크기, 경로를 mysql을 이용하여 데이터 베이스에 저장한다.
+
+int Move_File(char *)
+전송 받은 파일을 원하는 폴더에 집어넣기 위해 원하는 경로명과 파일 이름을 합쳐 rename으로 파일을 이동시킨다.
