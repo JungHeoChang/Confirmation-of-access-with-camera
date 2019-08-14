@@ -16,8 +16,8 @@
 <img src="https://user-images.githubusercontent.com/37999695/62916960-6e6f9180-bdd5-11e9-815a-b9a45345fe68.jpg" widht="40%">
 
 웹페이지를 만들어 컴퓨터 또는 휴대폰으로 사진을 확인할 수 있습니다.
-<img src="https://user-images.githubusercontent.com/37999695/62917125-01103080-bdd6-11e9-94bf-2d553222e6ad.jpg" width="40%">
-<img src="https://user-images.githubusercontent.com/37999695/62917146-17b68780-bdd6-11e9-88df-44d274433049.jpg" width="40%">
+<img src="https://user-images.githubusercontent.com/37999695/62917125-01103080-bdd6-11e9-94bf-2d553222e6ad.jpg" width="80%">
+<img src="https://user-images.githubusercontent.com/37999695/62917146-17b68780-bdd6-11e9-88df-44d274433049.jpg" width="80%">
 
 # 개발 환경
 main.cpp 라즈베리파이 라즈비안 C언어로 작성         
